@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">🔌 5V Charging Adapter using Proteus</h1>
 
 <p align="center">
