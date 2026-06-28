@@ -252,4 +252,4 @@ This project demonstrates the complete design and simulation of a <b>regulated 5
 <h2>⭐ Support</h2>
 
 <p>If you like this project, give it a ⭐ on GitHub.</p>
-```
+
