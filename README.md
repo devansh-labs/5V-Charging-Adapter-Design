@@ -31,10 +31,10 @@ This project demonstrates the design and simulation of a <b>regulated 5V DC char
 <h2>📸 Project Preview</h2>
 
 <h3>🔌 Complete Circuit</h3>
-<img src="assets/Project Preview/circuit-diagram.png" width="700"/>
+<img src="Images/AC to DC Power Supply Block Diagram.png" width="700"/>
 
 <h3>⚡ Simulation Output</h3>
-<img src="assets/Project Preview/simulation-output.png" width="700"/>
+<img src="Images/AC to DC Power Supply Block Diagram.png" width="700"/>
 
 <h3>📐 PCB / Circuit Layout</h3>
 <img src="assets/Project Preview/pcb-layout.png" width="700"/>
